@@ -1,12 +1,21 @@
+<h1 align="center">Hi 👋, I'm Midhun P</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midhunwalker&label=Profile%20views&color=0e75b6&style=flat" alt="midhunwalker" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midhunwalker" alt="midhunwalker" /></a> </p>
 
+- 🔭 I’m currently working on **store Managament**
+
+- 🌱 I’m currently learning **react**
+
+- 📫 How to reach me **midhunpparakkottil@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@midhun_walker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@midhun_walker" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/midhun p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midhun p" height="30" width="40" /></a>
+<a href="https://fb.com/midhun walker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="midhun walker" height="30" width="40" /></a>
 <a href="https://instagram.com/midhun_waker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midhun_waker" height="30" width="40" /></a>
 </p>
 
