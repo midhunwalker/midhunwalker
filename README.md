@@ -5,7 +5,7 @@
 
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=midhunwalker" alt="midhunwalker" /></a> </p>
 
-- 🔭 I’m currently working on **store Managament**
+- 🔭 I’m currently working on **SupplyCo website**
 
 - 🌱 I’m currently learning **react**
 
