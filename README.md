@@ -4,7 +4,15 @@
   </a>
 </h1>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
+</div>
+
 <h3 align="center">🧑💻 React Developer | 🎓 CS Student | 🚀 Building SupplyCo</h3>
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d46a5d231d28826.gif" width="400px">
+</div>
 
 <p align="center">
   <a href="https://github.com/midhunwalker?tab=repositories">
