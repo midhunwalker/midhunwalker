@@ -10,8 +10,9 @@
 
 <h3 align="center">🧑💻 React Developer | 🎓 CS Student | 🚀 Building SupplyCo</h3>
 
+<!-- Retro Terminal Animation -->
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d46a5d231d28826.gif" width="400px">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="400px">
 </div>
 
 <p align="center">
