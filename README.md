@@ -1,12 +1,11 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
+</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Midhun+P...;Frontend+Dev+🚀;From+Kerala,+IN🇮🇳&center=true&size=30&color=5b78f7&width=550">
   </a>
 </h1>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
-</div>
 
 <h3 align="center">🧑💻 React Developer | 🎓 CS Student | 🚀 Building SupplyCo</h3>
 
