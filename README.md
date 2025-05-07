@@ -25,7 +25,7 @@
 
 ### 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,python,java,c,django,php&theme=light&perline=5)
+![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,python,java,c,django,php&theme=light)
 
 ---
 
