@@ -17,6 +17,8 @@
 <p align="center">
   <a href="https://github.com/midhunwalker?tab=repositories">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/midhunwalker?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/midhunwalker/midhunwalker">
+    <img alt="visitors" title="Profile visitors" src="https://visitor-badge.glitch.me/badge?page_id=midhunwalker.midhunwalker&style=for-the-badge&color=8c61ff&labelColor=5e35b1"/></a>
   <a href="https://github.com/midhunwalker?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/midhunwalker?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
