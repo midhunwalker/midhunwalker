@@ -36,7 +36,7 @@
 | Project             | Description                           | Link              |
 | --------------------| --------------------------------------| ------------------|
 | **SupplyCo**        | Inventory management platform         | [Live Demo](#)    |
-| **Portfolio Site**  | Personal website with blog & gallery  | [View Site](#)    |
+| **Portfolio Site**  | Personal website with blog & gallery  | [View Site](https://midhunwalker-portfolio.web.app/)    |
 | **Ziya Academy**    |  Responsive Ziya academy website      | [Explore](https://midhunwalker.github.io/Ziya-Academy-reactjs/#)      |
 
 ---
