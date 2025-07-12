@@ -16,17 +16,30 @@
 </div>
 
 <p align="center">
-  <!-- Animated Badges -->
-  <a href="https://github.com/midhunwalker?tab=repositories">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/midhunwalker?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/midhunwalker/midhunwalker">
-    <img alt="visitors" title="Profile visitors" src="https://visitor-badge.glitch.me/badge?page_id=midhunwalker.midhunwalker&style=for-the-badge&color=8c61ff&labelColor=5e35b1"/></a>
-  <a href="https://github.com/midhunwalker?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/midhunwalker?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <!-- GitHub Badges -->
+  <a href="https://github.com/midhunwalker?tab=repositories" target="_blank">
+    <img alt="Total Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/midhunwalker?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
+  </a>
+  <a>
+  <img src="https://komarev.com/ghpvc/?username=midhunwalker&label=Profile+Views&color=blue&style=for-the-badge&labelColor=1e1e2e" alt="profile views" style="box-shadow: 0 0 10px #5b78f7;"/>
+</a>
+  <a href="https://github.com/midhunwalker?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/midhunwalker?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
+## ⚡ Featured Projects
+
+| Project             | Description                           | Link              |
+| --------------------| --------------------------------------| ------------------|
+| **SupplyCo**        | Inventory management platform         | [Live Demo](#)    |
+| **Portfolio Site**  | Personal website with blog & gallery  | [View Site](#)    |
+| **Ziya Academy**    |  Responsive Ziya academy website      | [Explore](https://midhunwalker.github.io/Ziya-Academy-reactjs/#)      |
+
+---
 ### 🛠️ Tech Stack
 
 <!-- Interactive Skill Cards -->
@@ -81,10 +94,6 @@
   </a>
 </p>
 
-<!-- Spotify Currently Playing -->
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e7q6q2m4j3h3l5q5d3q4q4q4q4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Now Playing"/>
-</div>
 
 ---
 
@@ -97,38 +106,5 @@
 
 ---
 
-<!-- Snake Game Contribution Graph -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/midhunwalker/midhunwalker/output/github-contribution-grid-snake.svg" alt="snake game"/>
-</div>
-
-<!-- Dynamic Quote -->
-<div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in" alt="random quote" width="80%">
-</div>
 
 <!-- View Counter with Glow -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=midhunwalker&label=Profile+Views&color=blue&style=for-the-badge&labelColor=1e1e2e" alt="profile views" style="box-shadow: 0 0 10px #5b78f7;"/>
-</p>
-
-<!-- CSS Animation for Hover Effects -->
-<style>
-  .shake-animation:hover {
-    animation: shake 0.5s;
-    animation-iteration-count: infinite;
-  }
-  @keyframes shake {
-    0% { transform: translate(1px, 1px) rotate(0deg); }
-    10% { transform: translate(-1px, -2px) rotate(-1deg); }
-    20% { transform: translate(-3px, 0px) rotate(1deg); }
-    30% { transform: translate(3px, 2px) rotate(0deg); }
-    40% { transform: translate(1px, -1px) rotate(1deg); }
-    50% { transform: translate(-1px, 2px) rotate(-1deg); }
-    60% { transform: translate(-3px, 1px) rotate(0deg); }
-    70% { transform: translate(3px, 1px) rotate(-1deg); }
-    80% { transform: translate(-1px, -1px) rotate(1deg); }
-    90% { transform: translate(1px, 2px) rotate(0deg); }
-    100% { transform: translate(1px, -2px) rotate(-1deg); }
-  }
-</style>
