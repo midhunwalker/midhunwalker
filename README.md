@@ -1,74 +1,69 @@
+<div align="center">
+
 # Midhun P
 
-**Frontend Developer | Full-Stack JavaScript | UI/UX-aware Engineer**  
-Kerala, India
+### Frontend Developer • Full-Stack JavaScript • UI-Focused Engineer  
+📍 Kerala, India  
 
-I am a frontend-focused full-stack developer with hands-on experience building **production-ready web applications** using modern JavaScript frameworks. I specialize in **React-based SPAs**, scalable backend APIs, and clean UI implementation aligned with real-world product requirements.
-
-Currently building **SupplyCo**, an inventory management platform, while continuously improving my backend architecture and system design skills.
+</div>
 
 ---
 
-## 🧠 Technical Expertise
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=React+Developer;SPA+Architecture;Clean+UI+Implementation;Building+SupplyCo&center=true&size=24&color=5b78f7&width=600" />
+</div>
 
-### Frontend
-- React.js
-- JavaScript (ES6+)
-- TypeScript
-- Next.js
-- SPA architecture
-- Component-driven UI design
-- Responsive layouts
+---
 
-### Backend
-- Node.js
-- Express.js
-- REST API design
-- MongoDB
-- PostgreSQL
-- Authentication (JWT-based)
+## 👋 About Me
 
-### Tools & Platforms
-- Git & GitHub
-- Docker (basics)
-- AWS (foundational knowledge)
-- Figma (developer–designer collaboration)
-- Vercel / Firebase deployment
+I am a **frontend-focused full-stack developer** experienced in building **production-ready SPAs** with React and scalable backend APIs using Node.js.  
+I focus on **clean architecture**, **maintainable code**, and **UX-aware UI implementation**.
+
+Currently building **SupplyCo**, an inventory management platform designed around real business workflows.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,js,ts,nextjs&theme=dark" />
+
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" />
+
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,docker,aws,figma&theme=dark" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### **SupplyCo**
-**Inventory Management Platform**  
-A production-ready web application focused on managing inventory workflows with a clean UI and scalable backend.
+### 🔹 SupplyCo  
+**Inventory Management Platform**
 
-- React-based frontend (SPA)
-- Node.js backend
-- RESTful APIs
-- Real-world product structure
+- React-based SPA  
+- RESTful APIs (Node.js)  
+- Scalable product structure  
+- Production-focused UI
 
-🔗 Live: https://supplycobymidhunwalker.vercel.app/
+🔗 **Live:** https://supplycobymidhunwalker.vercel.app/
 
 ---
 
-### **Portfolio Website**
-**Personal portfolio showcasing projects and skills**
-
-- Modern UI
-- Responsive design
-- Clean information architecture
+### 🔹 Portfolio Website
+Modern personal portfolio showcasing projects and skills.  
 
 🔗 https://midhunwalker-portfolio.web.app/
 
 ---
 
-### **Ziya Academy Website**
-**Responsive educational website**
-
-- React implementation
-- Pixel-accurate UI from design
-- Performance-focused layout
+### 🔹 Ziya Academy
+Responsive educational website built with React.  
 
 🔗 https://midhunwalker.github.io/Ziya-Academy-reactjs/#
 
@@ -76,37 +71,46 @@ A production-ready web application focused on managing inventory workflows with 
 
 ## 💼 Experience
 
-**Frontend Developer Intern – Ziya Academy (Kochi, Kerala)**  
-- Converted Figma designs into production-ready React components  
-- Collaborated closely with designers for accurate UI implementation  
-- Built reusable components and maintained clean project structure  
-- Gained hands-on experience with real client requirements
+**Frontend Developer Intern – Ziya Academy (Kochi)**  
+- Converted Figma designs into reusable React components  
+- Collaborated closely with designers for pixel-accurate UI  
+- Built responsive layouts and optimized component structure  
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
-- Consistent contribution history
-- Active project development
-- Focus on real-world applications over demo projects
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=midhunwalker&show_icons=true&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunwalker&layout=compact&theme=radical" />
 
-## 🌐 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/midhun-p-618729301/
-- GitHub: https://github.com/midhunwalker
-- Email: midhunpparakkottil@gmail.com
+</div>
 
 ---
 
-## 📌 What I Value
+## 🌐 Connect
 
-- Clean, maintainable code
-- Practical architecture over hype
-- Performance and UX awareness
-- Continuous learning through building
+<div align="center">
+
+<a href="https://www.linkedin.com/in/midhun-p-618729301/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:midhunpparakkottil@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/midhunwalker">
+  <img src="https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-> Open to frontend and full-stack JavaScript roles where product thinking and engineering quality matter.
+<div align="center">
+
+⭐ *Focused on building real products, not just projects.*
+
+</div>
