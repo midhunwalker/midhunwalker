@@ -3,7 +3,7 @@
 # Midhun P
 
 ### Frontend Developer • Full-Stack JavaScript • UI-Focused Engineer  
-📍 Kerala, India  
+📍 Kerala, India
 
 </div>
 
@@ -17,26 +17,62 @@
 
 ## 👋 About Me
 
-I am a **frontend-focused full-stack developer** experienced in building **production-ready SPAs** with React and scalable backend APIs using Node.js.  
-I focus on **clean architecture**, **maintainable code**, and **UX-aware UI implementation**.
+I am a **frontend-focused full-stack developer** experienced in building **production-ready Single Page Applications (SPAs)** using React and scalable backend APIs with Node.js.
 
-Currently building **SupplyCo**, an inventory management platform designed around real business workflows.
+I care deeply about **clean architecture**, **maintainable code**, and **UI/UX accuracy**, and I enjoy working on real-world products rather than demo-only projects.
+
+Currently building **SupplyCo**, an inventory management platform.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
+### 💻 Languages
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
+</div>
 
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=react,js,ts,nextjs&theme=dark" />
+---
 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" />
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+</div>
 
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,docker,aws,figma&theme=dark" />
+- SPA architecture
+- Component-driven design
+- Responsive UI
 
+---
+
+### ⚙️ Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
+</div>
+
+- REST API design
+- Authentication (JWT)
+- Modular backend structure
+
+---
+
+### 🗄️ Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
+</div>
+
+---
+
+### 🚀 DevOps & Deployment
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,firebase&theme=dark" />
+</div>
+
+---
+
+### 🛠️ Tools & Design
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
 </div>
 
 ---
@@ -47,23 +83,23 @@ Currently building **SupplyCo**, an inventory management platform designed aroun
 **Inventory Management Platform**
 
 - React-based SPA  
-- RESTful APIs (Node.js)  
-- Scalable product structure  
-- Production-focused UI
+- Node.js backend  
+- RESTful APIs  
+- Real-world product workflows  
 
 🔗 **Live:** https://supplycobymidhunwalker.vercel.app/
 
 ---
 
-### 🔹 Portfolio Website
-Modern personal portfolio showcasing projects and skills.  
+### 🔹 Portfolio Website  
+Modern personal portfolio with clean UI and responsive layout.
 
 🔗 https://midhunwalker-portfolio.web.app/
 
 ---
 
-### 🔹 Ziya Academy
-Responsive educational website built with React.  
+### 🔹 Ziya Academy  
+Responsive educational website built with React.
 
 🔗 https://midhunwalker.github.io/Ziya-Academy-reactjs/#
 
@@ -73,8 +109,8 @@ Responsive educational website built with React.
 
 **Frontend Developer Intern – Ziya Academy (Kochi)**  
 - Converted Figma designs into reusable React components  
-- Collaborated closely with designers for pixel-accurate UI  
-- Built responsive layouts and optimized component structure  
+- Worked closely with designers for pixel-accurate UI  
+- Built responsive layouts and improved component structure  
 
 ---
 
@@ -82,14 +118,15 @@ Responsive educational website built with React.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=midhunwalker&show_icons=true&theme=radical" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunwalker&layout=compact&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=midhunwalker&show_icons=true&theme=radical&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunwalker&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -111,6 +148,6 @@ Responsive educational website built with React.
 
 <div align="center">
 
-⭐ *Focused on building real products, not just projects.*
+⭐ *Focused on building real products with clean engineering practices.*
 
 </div>
